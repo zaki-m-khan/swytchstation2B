@@ -4,7 +4,6 @@ Swytch Station is an AI-powered platform that guides career transitions for prof
 
 ## Team Members
 - Favour Adesoye
-- Houlaymatou Balde
 - Meera James
 - Sanah Singh
 - Zaki Khan
