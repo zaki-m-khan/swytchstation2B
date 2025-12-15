@@ -24,13 +24,17 @@
 
 ## 🛠️ **Setup and Installation**
 
-### 1. Clone the repository or upload the notebook directly into Google Colab
+### 1. Clone the repository or download the notebook directly
 ```bash
-git clone https://github.com/zaki-m-khan/Swytch2BResumeSuggestor.git
+git clone https://github.com/zaki-m-khan/swytchstation2B.git
 ```
 
+Alternatively, download the notebook file directly:
+- Navigate to `notebooks/swytchstation2BFinalModel.ipynb`
+- Click "Raw" or "Download" to save the file locally
+
 ### 2. Open in Google Colab
-- Open the main notebook
+- Upload the `swytchstation2BFinalModel.ipynb` notebook to Google Colab
 - Select **Runtime → Run all**
 
 ### 3. Install Dependencies
