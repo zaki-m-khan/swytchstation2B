@@ -128,7 +128,7 @@ Three text-based similarity models were developed and compared:
 
 ### Model Performance
 
-![Model Performance](./model_performance.png)
+![Model Performance](model_performance.png)
 
 |          | Precision@5 | Recall@5 | MRR   |
 |----------|-------------|----------|-------|
